@@ -1,0 +1,10 @@
+$color--block: #333;
+$color--white: #f5f5f5;
+
+body {
+  background-color: $color--block;
+  #app {
+    color: $color--white;
+    font-size: 30px;
+  }
+}
